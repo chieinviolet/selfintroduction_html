@@ -1,0 +1,41 @@
+@charset "UFT-8";
+h1{font-family: 'Great Vibes', cursive;
+}
+body {color:black;
+      background-color: bisque;
+}
+h2{
+color: white;
+font-size: 30px;
+background-color: darkgreen;
+margin:100px,50px, 50px,50px;
+padding: 50px;
+border: 10px solid pink;
+
+.social-links{color:orange;}
+.social-links{
+    margin: 50px;
+    padding: 50px;
+    background-color: hotpink;
+    border: 10px solid red;
+    color:white;
+}
+
+img{
+    border:solid 3px black;
+    margin:50px;
+    padding:10px;
+    background-color: brown;
+}
+.h1{
+    display:inline-block;
+    padding: 0.6em 2em;
+    background-color: darkgreen;
+    color: bisque
+    cursor: pointer;
+    transition: all 0.3s ease 0s
+}
+.h1:hover{
+    opacity: 0.6;
+
+}
